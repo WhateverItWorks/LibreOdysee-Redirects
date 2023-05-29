@@ -17,7 +17,7 @@ along with this program. If not, see <https://www.gnu.org/licenses/>.
 */
 
 // ==UserScript==
-// @name           odysee to librarian
+// @name           odysee to libreodysee
 // @namespace      Zera's userscripts
 // @match          http://odysee.com/*
 // @match          https://odysee.com/*
