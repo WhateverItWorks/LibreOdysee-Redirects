@@ -1,6 +1,6 @@
 # LibreOdysee-Redirects
 
-Redirect Odysee links to [LibreOdysee](https://codeberg.org/WhateverItWorks/LibreOdysee)!
+Redirect Odysee links to [LibreOdysee](https://github.com/WhateverItWorks/LibreOdysee-Redirects)
 
 ## Chrome(ium)
 1. Go to `chrome://extensions` and enable "Developer mode"
